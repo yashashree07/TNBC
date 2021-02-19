@@ -28,7 +28,7 @@ Feature: InternationalCurrency feature
       | EUR          | PS          | EURO                 |                 2 |
       | ILS          | PS          | Israeli new shekel   |                 2 |
       | USD          | PS          | United States dollar |                 2 |
-   #   | JOD          | PS          | Jordanian dinar      |                 3 |
+      | JOD          | PS          | Jordanian dinar      |                 3 |
 
   @TC_01_04_ListInternationalCurrencywithValiddata
   Scenario Outline: To validate list of International Currency with valid data
